@@ -1,2 +1,2 @@
-# SchoolWork
-Machine Learning School Work
+# CollegeWork
+Machine Learning School Work 
